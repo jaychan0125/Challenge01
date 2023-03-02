@@ -32,11 +32,13 @@ header h1 .seo {
     font-size: 20px;
 }
 
-.header ul {
-    list-style-type: none;
+.header nav ul {
+    list-style-type: none; /*bullet points (lack thereof)*/
+    float: right;
+    margin-top: 20px;
 }
 
-.header ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
