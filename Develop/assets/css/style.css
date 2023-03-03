@@ -27,7 +27,8 @@ h1 {
 }
 
 .nav-bar {
-    list-style-type: none; /*bullet points (lack thereof)*/
+    list-style-type: none;
+    /*bullet points (lack thereof)*/
     float: right;
     margin-top: 20px;
 }
@@ -70,7 +71,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}  /* consolodates commented code below, but code below selects section based on ID. 
+}
+
+/* consolodates commented code below, but code below selects section based on ID. 
 if I don't use the IDs, should I still include them in my HTML?*/
 
 
@@ -111,13 +114,13 @@ if I don't use the IDs, should I still include them in my HTML?*/
 }
 
 /*images on left side of content section*/
-.float-left {       
+.float-left {
     float: left;
     margin-right: 25px;
 }
 
 /*images on right side of content section*/
-.float-right {     
+.float-right {
     float: right;
     margin-left: 25px;
 }
@@ -142,7 +145,9 @@ if I don't use the IDs, should I still include them in my HTML?*/
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
-} /*consolodates commented code below, but code below selects section based on ID. 
+}
+
+/*consolodates commented code below, but code below selects section based on ID. 
 if I don't use the IDs, should I still include them in my HTML?*/
 
 
@@ -180,6 +185,3 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-
-
