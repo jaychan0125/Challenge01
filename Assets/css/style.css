@@ -73,41 +73,6 @@ p {
     color: #ffffff;
 }
 
-/* consolodates commented code below, but code below selects section based on ID. 
-if I don't use the IDs, should I still include them in my HTML?*/
-
-
-/*main section 1*/
-/*#search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
-/*main section 2*/
-/*#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
-/*main section 3*/
-/*#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
-
 /*image sizing for images in content*/
 .content img {
     max-height: 200px;
@@ -146,28 +111,6 @@ if I don't use the IDs, should I still include them in my HTML?*/
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-/*consolodates commented code below, but code below selects section based on ID. 
-if I don't use the IDs, should I still include them in my HTML?*/
-
-
-/*aside section 1*/
-/*#benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}*/
-
-/*aside section 2*/
-/*#benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}*/
-
-/*aside section 3*/
-/*#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}*/
 
 .benefits h3 {
     margin-bottom: 10px;
