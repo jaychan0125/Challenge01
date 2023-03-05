@@ -59,7 +59,7 @@ With additional grading requirements including:
 
 ## Usage
 
-![My Horiseon - Homepage](assets/images/Horiseon-screenshot.png)
+![My Horiseon - Homepage](./Assets/images/Horiseon-screenshot.png)
 
 The Navigation Bar on the top right has three different buttons that will link you further down the page to the associated sections. 
 
