@@ -30,28 +30,28 @@ Link to my Horiseon -Homepage:
 
 Here are the User Story and Acceptance Criteria provided: 
 > ### User Story
->AS A marketing agency
->I WANT a codebase that follows accessibility standards
->SO THAT our own site is optimized for search engines
+>AS A marketing agency<br/>
+>I WANT a codebase that follows accessibility standards<br/>
+>SO THAT our own site is optimized for search engines<br/>
 >
 > ### Acceptance Criteria
->GIVEN a webpage meets accessibility standards
->WHEN I view the source code
->THEN I find semantic HTML elements
->WHEN I view the structure of the HTML elements
->THEN I find that the elements follow a logical structure independent of styling and positioning
->WHEN I view the icon and image elements
->THEN I find accessible alt attributes
->WHEN I view the heading attributes
->THEN they fall in sequential order
->WHEN I view the title element
->THEN I find a concise, descriptive title
+>GIVEN a webpage meets accessibility standards<br/>
+>WHEN I view the source code<br/>
+>THEN I find semantic HTML elements<br/>
+>WHEN I view the structure of the HTML elements<br/>
+>THEN I find that the elements follow a logical structure independent of styling and positioning<br/>
+>WHEN I view the icon and image elements<br/>
+>THEN I find accessible alt attributes<br/>
+>WHEN I view the heading attributes<br/>
+>THEN they fall in sequential order<br/>
+>WHEN I view the title element<br/>
+>THEN I find a concise, descriptive title<br/>
 
 With additional grading requirements including:
->Application's links all function correctly.
->Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
->Application's CSS file is properly commented.
->Application deployed at live URL.
+>Application's links all function correctly.<br/>
+>Application's CSS selectors and properties are consolidated and organized to follow semantic structure.<br/>
+>Application's CSS file is properly commented.<br/>
+>Application deployed at live URL.<br/>
 
 ## Usage
 
