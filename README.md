@@ -2,9 +2,9 @@
 
 ## 01 HTML, CSS, and Git: Code Refactor
 
-In this project, I was given a starter code that needs refactoring. The guidelines given were to make it follow accessiblity standards, clean it up, and improve it for better sustainability for future updates while maintaining the integrity of the webpage. 
+In this project, I was given a starter code that needs refactoring. The guidelines given were to make it follow accessibility standards, clean it up, and improve it for better sustainability for future updates while maintaining the integrity of the webpage. 
 
-I want my code and supporting comments to demonstrate an undertanding of the topics discussed such as the importance of semantic elements, use of tags and their attributes, use of CSS selectors, and layout based CSS declarations like: display, positioning, and box-model. 
+I want my code and supporting comments to demonstrate an understanding of the topics discussed such as the importance of semantic elements, use of tags and their attributes, use of CSS selectors, and layout based CSS declarations like: display, positioning, and box-model. 
 
 The use of semantic tags and alt text for images follow web accessibility standards, allowing for use of assistive devices. These help the browser understand what the content is and how it may relate to others on the page, while container elements only show layout. Here, I have added `<header> <nav> <figure> <main> <aside> <footer>`, and *alt="description"* for `<img>` tags. 
 
