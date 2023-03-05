@@ -17,6 +17,7 @@ header {
     font-size: 20px;
 }
 
+/*allow to be paralell with nav-bar*/
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,13 +27,15 @@ h1 {
     color: #d9dcd6;
 }
 
+/*navigation links on right side of page*/
 .nav-bar {
-    list-style-type: none;
     /*bullet points (lack thereof)*/
+    list-style-type: none;
     float: right;
     margin-top: 20px;
 }
 
+/*horizontal navigation links spacing, allow to be parallel with h1*/
 .nav-bar li {
     display: inline-block;
     margin-left: 25px;
@@ -47,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-/*background image*/
+/*background image, no alt text*/
 .hero {
     height: 800px;
     width: 100%;
@@ -57,13 +60,14 @@ p {
     background-position: center;
 }
 
-/*main body of info, 3 sections with IDs*/
+/*main body of info,*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*content sections condensed as all uniform in structure*/
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,6 +111,7 @@ p {
     background-color: #2589bd;
 }
 
+/*benefits section condensed as all uniform in structure*/
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;

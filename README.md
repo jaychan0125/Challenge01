@@ -2,7 +2,34 @@
 
 ## 01 HTML, CSS, and Git: Code Refactor
 
-In this project, I was given a starter code that needed modifications. The guidelines I was given were to make it more web accessible, clean it up, and improve it for better sustainability for future updates while maintaining the integrity of the webpage. 
+In this project, I was given a starter code that needs refactoring. The guidelines given were to make it follow accessiblity standards, clean it up, and improve it for better sustainability for future updates while maintaining the integrity of the webpage. 
+
+I want my code and supporting comments to demonstrate an undertanding of the topics discussed such as the importance of semantic elements, use of tags and their attributes, use of CSS selectors, and layout based CSS declarations like: display, positioning, and box-model. 
+
+The use of semantic tags and alt text for images follow web accessibility standards, allowing for use of assistive devices. These help the browser understand what the content is and how it may relate to others on the page, while container elements only show layout. Here, I have added <header> <nav> <figure> <main> <aside> <footer>, and *alt="description"* for <img> tags. 
+
+This project has really helped me with computational thinking, specifically decomposition and pattern recognition, when used to analyse html and css documents. It was helpful mentally breaking down the sections and tying them together to understand their interactions with each other and on the page. Reading the pre-written code also helped me understand the patterns that code may carry, and how to condense them as necessary to make it more readable and less overwhelming. This project also really helped me understand the importance of CSS layout declarations in terms of positioning elements on a page and their interactions with other page elements. I learned the importance of placement of code in HTML as moving things a line or two have an impact on how they show on a deployed page. 
+
+https://www.ontario.ca/page/how-make-websites-accessible
+https://www.rev.com/blog/speech-to-text-accessibility/canada-web-accessibility-laws-standard-guidelines-and-compliance
+http://web-accessibility.carnegiemuseums.org/foundations/semantic/
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+## Table of Contents (Optional)
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Deployment](#deployment)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Deployment
+
+LINK MY DEPLOYED WEBSITE ONCE ITS UP AND RUNNING
+
+## Requirements
 
 Here are the User Story and Acceptance Criteria provided: 
 > ### User Story
@@ -30,37 +57,11 @@ With additional grading requirements including:
 >Application's CSS file is properly commented.
 >Application deployed at live URL.
 
-
-
-
-
-
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+![My Horiseon - Homepage](assets/images/Horiseon-screenshot.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+The Navigation Bar on the top right has three different buttons that will link you further down the page to the associated sections. 
 
 ## Credits
 
@@ -75,23 +76,3 @@ If you followed tutorials, include links to those here as well.
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
